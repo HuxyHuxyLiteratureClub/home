@@ -26,7 +26,7 @@ h2{
 }
 
 .navbar{
-    background: #131311;
+    background: #131312;
     height: 80px;
     display:flex;
     justify-content: center;
@@ -123,6 +123,7 @@ h2{
 .button:hover{
     color:#fff;
     background: #825cff;
+    transition: all 0.3s ease;
 }
 
 /*hero section*/
@@ -230,17 +231,17 @@ h2{
     color: white;
     font-size: 2rem;
     font-weight: 400;
-    padding: 0 50px;
+    padding: 0 100px 100px;
 }
 .crewcontent .h2{
     color: white;
     font-size: 2rem;
     font-weight: 300;
-    padding: 0 50px;
+    padding: 0 100px 100px;
 }
 .crewcontent .p{
     color: white;
     font-size: 2rem;
     font-weight: 300;
-    padding: 0 50px;
+    padding: 0 100px 100px;
 }
