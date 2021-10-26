@@ -1,4 +1,4 @@
-## Welcome to the **NEW** homepage source code!!
+## Welcome to the **NEW** homepage source code!
 > Now you might be wondering on why we deleted the original homepage and all of our repositories on Github, The reason we did that is because we had to throw everything out of the window and start from scratch since the project was a bit messy and unorganized, That is why we had to delete all of our repositories
 
 
