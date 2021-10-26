@@ -14,5 +14,5 @@
 > The Crew:
 > - Ali Alshamsi (CEO and founder)
 > - Noah [Missing name] (Co-Founder and factotum)
-> - Huston Bentz (CEO of huxbook and developer)
+> - Huston Bentz (Founder of huxbook and developer)
 > - Hayden Bentz (Graphic designer)
