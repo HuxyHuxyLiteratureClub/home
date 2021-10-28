@@ -6,7 +6,7 @@
     text-decoration: none;
     
 }
-
+a
 a{
     position: relative;
     z-index: 2;
@@ -261,5 +261,6 @@ body{
 }
 
 .footer h1{
+    padding: 20px;
     color: rgb(255, 91, 91);
 }
