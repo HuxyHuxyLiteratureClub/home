@@ -19,6 +19,6 @@
 > - Noah Campbell (Co-Founder and factotum)
 > - Houston Bentz (Founder of HuxBook and developer)
 > - Hayden Bentz (Graphic designer)
-> Ahmed Almansoori - Developer and Owner of Scoob E-sports
+> - Ahmed Almansoori - Developer and Owner of Scoob E-sports
 
 -----
