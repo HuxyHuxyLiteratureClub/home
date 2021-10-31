@@ -163,6 +163,17 @@ body{
 }
 
 .maincontent h2{
+    font-size: 4rem;
+    background-color: #ffffff;
+    background-size: 100%;
+    font-weight: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.maincontent h3{
     font-size: 2rem;
     background-color: #ffffff;
     background-size: 100%;
@@ -175,16 +186,84 @@ body{
 
 .maincontent p{
     margin-top: 1rem;
-    font-size: 1.5rem;
-    font-weight: 700;
+    font-size: 1.3rem;
     color: #fff;
     text-decoration: none;
 }
 
+/*Main2*/
+.main2{
+    background-color: #141414;
+}
+
+.maincontain2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 90vh;
+    background-color: #141414;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+}
+
+.maincontent2 h1{
+    font-size: 4rem;
+    background-color: #ff8177;
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-size: 100%;
+    font-weight: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.maincontent2 h2{
+    font-size: 4rem;
+    background-color: #ffffff;
+    background-size: 100%;
+    font-weight: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+
+.maincontent2 h3{
+    font-size: 2rem;
+    background-color: #ffffff;
+    background-size: 100%;
+    font-weight: 40;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.maincontent2 p{
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.maincontent2 img{
+    size: 2px;
+    float: right;
+    display: flex;
+}
+
+/*Main2*/
+
 .mainbutton{
     font-size: 1rem;
     background-image: linear-gradient(to top, #8222ff 0%, #4f30fd);
-    padding: 14px 32px;
+    padding: 10px 20px;
     border: none;
     border-radius: 4px;
     color: #fff;
@@ -224,6 +303,10 @@ body{
     width: 100%;
 }
 
+.prodimg{
+    
+}
+
 .crew{
     background: #1c1c20;
 }
@@ -254,13 +337,69 @@ body{
     padding: 0 100px 100px;
 }
 
-.footer{
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+
+/*footer*/
+.footer-container{
+    background-color:transparent;
+    border: white;
+    padding-bottom: 4rem;
+    background-color: #141414;
+
 }
 
-.footer h1{
+.footer{
+    width: 80%;
+    height: 40vh;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+.footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 40%;
+}
+
+.footer-heading h2{
+    margin-bottom: 2rem;
+}
+
+.footer-heading a{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+
+.footer-heading a:hover{
+    color: rgb(177, 59, 29);
+    transition: 0.3s ease-out;
+}
+
+.endfoot{
+    justify-content: center;
     padding: 20px;
-    color: rgb(255, 91, 91);
+    align-items: center;
+    text-align: center;
+    background-color: #141414;
+    
+}
+.endfoot h1{
+    color: rgb(255, 85, 85);
+    justify-content: center;
+
+}
+
+.endfoot p{
+    text-align: center;
+    color: white;
 }
