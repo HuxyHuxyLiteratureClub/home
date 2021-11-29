@@ -55,14 +55,15 @@ body{
 }
 
 #navbarlogo{
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #AD00FF;
+    background-image: linear-gradient(to top, #00A3FF 0%, #9888FC 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     font-size: 2rem;
+    paddingtop: 15px;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -94,7 +95,7 @@ body{
     width: auto;
 }
 .navbarlinks:hover{
-    color: #ff8177;
+    color: #8222ff;
     transition: all 0.1s ease-in;
 }
 
@@ -152,8 +153,8 @@ body{
 
 .maincontent h1{
     font-size: 4rem;
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #00A3FF;
+    background-image: linear-gradient(to top, #AD00FF 0%, #9888FC 100%);
     background-size: 100%;
     font-weight: 700;
     -webkit-background-clip: text;
@@ -212,8 +213,8 @@ body{
 
 .maincontent2 h1{
     font-size: 4rem;
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #00A3FF;
+    background-image: linear-gradient(to top, #AD00FF 0%, #9888FC 100%);
     background-size: 100%;
     font-weight: 100%;
     -webkit-background-clip: text;
