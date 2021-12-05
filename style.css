@@ -66,7 +66,7 @@ body{
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     font-size: 2rem;
-    paddingtop: 15px;
+    padding-top: 15px;
     display: flex;
     align-items: center;
     cursor: pointer;
