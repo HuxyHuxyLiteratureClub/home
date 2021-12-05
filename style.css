@@ -5,8 +5,21 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
     
+    
 }
-a
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    color: #09090a;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(48, 48, 48);
+    border-radius: 5px;
+}
+
 a{
     position: relative;
     z-index: 2;
