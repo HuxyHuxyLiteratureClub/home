@@ -79,6 +79,7 @@ body{
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     font-size: 2rem;
+    margin-bottom: 15px;
     padding-top: 15px;
     display: flex;
     align-items: center;
@@ -161,11 +162,10 @@ body{
     justify-self: center;
     margin: 0 auto;
     height: 90vh;
-    background-color: #141414;
     z-index: 1;
     width: 100%;
     max-width: 1300px;
-    padding: 0 50px;
+    padding: 0 15px;
 }
 
 .maincontent h1{
