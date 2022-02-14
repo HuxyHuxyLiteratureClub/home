@@ -135,13 +135,15 @@ body{
     align-items: center;
     text-decoration: none;
     padding: 10px 20px;
-    height: 100%;
-    width: 100%;
+    margin-top: 15px;
+    height: auto;
+    width: auto;
     border: none;
     outline: none;
-    border-radius: 4px;
-    background: #5c2cfd;
-    background-image: linear-gradient(to top, #8222ff 0%, #4f30fd);
+    border-radius: 15px;
+    background: #8222ff;
+    font-size: 20px;
+    background-image: linear-gradient(to top, #8222ff 0%, #9030fd);
     color: white;
 }
 
